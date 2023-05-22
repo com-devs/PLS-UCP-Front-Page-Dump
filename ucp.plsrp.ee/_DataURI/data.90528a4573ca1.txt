@@ -1,0 +1,1 @@
+chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/src/particles/scrollbars/sModel.js
